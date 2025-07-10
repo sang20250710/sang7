@@ -10,4 +10,4 @@
 
 这些平台专注于提供91系列与麻豆精品视频内容，类型多样、更新及时，方便用户快速查找自己感兴趣的影片。每个视频页面都包含详细信息，如片长、画质、演员等，支持高清视频播放，并能根据网络状况自动优化画质，确保观看体验流畅顺畅。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang7 ）</span>
